@@ -2,7 +2,7 @@
     "plcnext": {
         "ipAddress": "192.168.1.10",
         "username": "admin",
-        "password": "xxxxxxxx"
+        "password": "abcd123z"
     },
     "mqtt": {
         "broker": {
@@ -16,7 +16,7 @@
     "nats": {
         "local": {
             "username": "client",
-            "password": "xxxxxxxx"
+            "password": "abcd123z"
         }
     }
 }
